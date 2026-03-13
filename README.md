@@ -102,6 +102,4 @@ Aspiring Data Analyst | Power BI Developer
 
 ---
 
-## Contact
 
-For queries or collaboration opportunities, please feel free to connect.
