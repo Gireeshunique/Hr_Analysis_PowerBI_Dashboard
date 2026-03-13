@@ -76,10 +76,6 @@ The project utilizes the **HR Employee Attrition Dataset**, which includes key e
 
 ## Dashboard Preview
 
-*(Insert your Power BI dashboard screenshot here)*
-
-Example:
-
 ![Dashboard Screenshot](dashboard.png)
 
 ---
